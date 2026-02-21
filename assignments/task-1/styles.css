@@ -1,0 +1,43 @@
+body {
+    background-color: whitesmoke;
+    padding: 20px;
+}
+
+.container {
+    max-width: 400px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    box-sizing: border-box;
+}
+
+.gender {
+    margin-top: 10px;
+}
+
+.buttons {
+    margin-top: 15px;
+}
+
+button {
+    padding: 10px 15px;
+    margin-right: 10px;
+    background-color: blue;
+    color: white;
+    border: none;
+}
